@@ -1,4 +1,8 @@
+body {
+  background-color: aqua;
+}
+
 h1 {
-  color: crimson;
-  text-align: center;
-}/*# sourceMappingURL=style.css.map */
+  color: rgb(8, 216, 42);
+}
+/*# sourceMappingURL=style.css.map */
