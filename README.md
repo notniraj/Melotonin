@@ -7,5 +7,7 @@ has never been made before :D
 
 **Quick Start**
 1. 'git clone' this project to your local pc
-2. To run server use the *runserver.bat* in App
-3. Have fun coding 😊
+2. In the *Environment* folder go to *pyvenv.cfg*
+3. Edit "YOUR_PYTHON_HOME" to your home python (search on google if you don't know)
+4. To run server you can use *runserver.bat* in *App*
+6. Have fun coding 😊
