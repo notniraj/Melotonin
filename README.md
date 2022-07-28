@@ -5,6 +5,7 @@ If you've been invited to this project collaboration, then congrats!
 suffer with us through this painful journey of making a website that
 has never been made before :D
 
+
 **Quick Start**
 1. 'git clone' this project to your local pc
 2. In the *Environment* folder go to *pyvenv.cfg*
